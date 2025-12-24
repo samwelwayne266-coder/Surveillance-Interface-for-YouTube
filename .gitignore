@@ -1,0 +1,19 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Extension Build Files
+*.crx
+*.pem
+*.zip
+
+# IDE / Editor Configs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary Logs
+*.log
+npm-debug.log*
