@@ -35,6 +35,12 @@
 4. Click **Load unpacked** and select the root project folder.
 ---
 
+<p align="center">
+  <img src="preview.PNG" alt="samwelwayne266-coder">
+</p>
+
+---
+
 ## ⌨️ Command Shortcuts
 | Key/Command | Action |
 | :--- | :--- |
